@@ -1,0 +1,9 @@
+# Ignore virtual environment folders
+venv/
+env/
+dl_labb/
+
+# Ignore large data files
+data/train_32x32.mat
+data/test_32x32.mat
+cifar-10-batches-py/cifar-10-python.tar.gz
